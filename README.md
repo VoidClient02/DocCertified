@@ -32,6 +32,3 @@ node doccertified.js --sql  # print the Supabase/PostgreSQL schema
 
 React, PostgreSQL on Supabase, deployed on Render, developed in VS Code.
 
-## Credits
-
-Made by VoidClient02 with help from Claude (Anthropic).
