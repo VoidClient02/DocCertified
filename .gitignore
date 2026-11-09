@@ -1,0 +1,5 @@
+node_modules/
+uploads/
+doccertified.db.json
+.env
+.DS_Store
