@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 /**
  * DocCertified — single-file rapid prototype
- * Made by VoidCilent02 with help from Claude (Anthropic).
+ * Made by VoidClient02 with help from Claude (Anthropic).
  * Run:   node doccertified.js        -> http://localhost:3000
  * SQL:   node doccertified.js --sql  -> prints the Supabase/PostgreSQL schema
  * Needs: Node 18+, no npm packages (React loads from a CDN in the browser).

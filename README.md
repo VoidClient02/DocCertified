@@ -34,4 +34,4 @@ React, PostgreSQL on Supabase, deployed on Render, developed in VS Code.
 
 ## Credits
 
-Made by VoidCilent02 with help from Claude (Anthropic).
+Made by VoidClient02 with help from Claude (Anthropic).
